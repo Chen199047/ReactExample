@@ -1,0 +1,64 @@
+{
+  "users" : [
+    {
+      "id" :   "1001",
+      "age" :   35,
+      "first_name" :   "burch",
+      "last_name" :   "george",
+      "gender" :   "male",
+      "email" :   "burchgeorge@geofarm.com",
+      "following" : ["1002", "1004", "1005"],
+      "posts": []
+    },
+    {
+      "id" :   "1002",
+      "age" :   31,
+      "first_name" :   "rachelle",
+      "last_name" :   "chang",
+      "gender" :   "female",
+      "email" :   "rachellechang@geofarm.com",
+      "following" : [],
+      "posts": []
+    },
+    {
+      "id" :   "1003",
+      "age" :   38,
+      "first_name" :   "sheri",
+      "last_name" :   "bennett",
+      "gender" :   "female",
+      "email" :   "sheribennett@geofarm.com",
+      "following" : [],
+      "posts": []
+    },
+    {
+      "id" :   "1004",
+      "age" :   32,
+      "first_name" :   "fisher",
+      "last_name" :   "dillard",
+      "gender" :   "male",
+      "email" :   "fisherdillard@geofarm.com",
+      "following" : [],
+      "posts": ["abcd", "efgh","ijkl"]
+    },
+    {
+      "id" :   "1005",
+      "age" :   20,
+      "first_name" :   "pope",
+      "last_name" :   "bailey",
+      "gender" :   "male",
+      "email" :   "popebailey@geofarm.com",
+      "following" : [],
+      "posts": ["Hello World!", "Hello JS!", "Hello hello!"]
+    },
+    {
+      "id" :   "1006",
+      "age" :   20,
+      "first_name" :   "pope",
+      "last_name" :   "bailey",
+      "gender" :   "male",
+      "email" :   "popebailey@geofarm.com",
+      "following" : []
+
+    }
+  ]
+}
